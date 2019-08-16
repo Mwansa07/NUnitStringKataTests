@@ -1,0 +1,2 @@
+# NUnitStringKataTests
+NUnitStringKataTests
